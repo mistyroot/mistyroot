@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinayaky7
+- 👋 Hi, I’m @vinayakyadav7
 - 👀 I’m interested in AWS, Linux, Python, DevOps
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on DevOps
