@@ -32,4 +32,4 @@ You can click the Preview link to take a look at your changes.
 
 🌱 You can reach me at below email and mobile number or connect with me on LinkedIn. 💞️I look forward to collaborating and creating opportunities together! 🚀✨
 
-📫vinyad777@gmail.com | 🔗 https://www.linkedin.com/in/vinayakyadav7/ | ⚙️ https://github.com/vinayakyadav7
+📫vinyad777@gmail.com | ⚙️ https://github.com/vinayakyadav7
