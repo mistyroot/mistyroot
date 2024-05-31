@@ -3,7 +3,7 @@ vinayaky7/vinayaky7 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-😎 Greetings to my LinkedIn page! I'm Vinayak Yadav 👋, dedicated to advancing the frontiers of technology and elevating innovation to unprecedented levels. 🌐✨
+😎 Greetings to my Profile! I'm Vinayak Yadav 👋, dedicated to advancing the frontiers of technology and elevating innovation to unprecedented levels. 🌐✨
 
 
 👀Experienced DevOps Engineer with over 4 years of expertise in IT infrastructure and services. I have worked across diverse sectors including E-commerce, Legal, and Supply Chain. My skills include proficiency in Cloud Services and a wide array of DevOps and open-source tools. I am committed to continuous learning and sharing knowledge, and I actively practice SCRUM methodologies.
