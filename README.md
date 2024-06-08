@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **AWS, DevOps**
 
-- 📫 How to reach me **vinyad777@gmail.com**
+- 📫 How to reach me **vy7@outlook.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
