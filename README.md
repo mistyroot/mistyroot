@@ -69,9 +69,6 @@
   <a href="https://www.redhat.com/en" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="80" height="80"/>
   </a>
-  <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="argocd" width="80" height="80"/>
-  </a>
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/>
   </a>
@@ -81,11 +78,8 @@
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="80" height="80"/>
   </a>
-  <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="80" height="80"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/>
+  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="80" height="80"/>
   </a>
   <a href="https://golang.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="80" height="80"/>
