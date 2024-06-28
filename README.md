@@ -84,8 +84,10 @@
   <a href="https://golang.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="golang" width="80" height="80"/>
   </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="80" height="80"/>
+  </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayaky7&show_icons=true&locale=en&layout=compact" alt="vinayaky7" /></p>
 
