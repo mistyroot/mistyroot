@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vinayakyadav7?tab=repositories](https://github.com/vinayakyadav7?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/vinayaky7?tab=repositories](https://github.com/vinayaky7?tab=repositories)
 
 - 💬 Ask me about **AWS, DevOps**
 
