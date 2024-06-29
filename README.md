@@ -27,7 +27,7 @@
 - **SonarQube**
 - **Maven**
 - **Nexus**
-- 
+  
 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/vinayaky7?tab=repositories).
 
 💬 Feel free to ask me about anything related to AWS and DevOps.
