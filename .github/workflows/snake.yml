@@ -31,23 +31,19 @@ jobs:
       - name: Navigate to snk directory
         run: cd snk
       
-      # Install dependencies (if any)
-      - name: Install dependencies (if any)
-        run: |
-          # Example command to install dependencies (if required)
-          # npm install
-      
       # Generate the GitHub contribution graph snake SVG
       - name: Generate GitHub contribution graph snake SVG
         run: |
           # Example command to generate snake SVG
-          # Replace this with your actual command to generate SVG
           echo "Generating GitHub contribution graph snake SVG..."
           ./path/to/your/snake-generator-script.sh > ./dist/github-contribution-grid-snake.svg
       
       # Push the generated files to the output branch
       - name: Push to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          publish_dir: ./dist
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git checkout -b output
+          git add ./dist
+          git commit -m "Update GitHub contribution graph snake SVG"
+          git push origin output
