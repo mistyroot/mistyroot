@@ -1,6 +1,5 @@
 #!/bin/bash
 
-echo "Generating GitHub contribution graph snake SVG..."
-# Replace this command with the actual command to generate the SVG file
-echo "<svg> ... </svg>" > ./dist/github-contribution-grid-snake.svg
+# Generate the snake SVG file
+curl -sSL https://example.com/generate_snake_script.sh | bash -s -- -b ./dist/
 
