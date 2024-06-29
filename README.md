@@ -21,6 +21,35 @@
 
 - 📫 How to reach me **vinayak.012395@gmail.com**
 
+### Hi there 👋
+
+🔭 I’m currently working on AWS and DevOps, leveraging a wide array of tools to streamline and enhance my projects. My expertise includes using:
+
+- **Amazon Web Services (AWS)** for scalable cloud solutions
+- **Bash** for efficient scripting
+- **Git** and **GitHub** for version control and collaboration
+- **Grafana** and **Prometheus** for monitoring and alerting
+- **Jenkins** for continuous integration and continuous delivery (CI/CD)
+- **Kubernetes** for container orchestration
+- **Linux** for a robust and flexible operating system
+- **MySQL** for reliable database management
+- **Python** and **Golang** for versatile programming
+- **Docker** for containerization
+- **Ansible** and **Terraform** for infrastructure as code (IaC)
+- **Red Hat** for enterprise-grade open source solutions
+- **Azure** for additional cloud services
+- **HTML5** for web development
+- **GitLab** for DevOps lifecycle management
+- **SonarQube** for code quality assurance
+- **Maven** for project management and comprehension
+- **Nexus** for artifact repository management
+
+👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/vinayaky7?tab=repositories).
+
+💬 Feel free to ask me about anything related to AWS and DevOps.
+
+📫 You can reach me at [vinayak.012395@gmail.com](mailto:vinayak.012395@gmail.com).
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinayaky7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayaky7" height="30" width="81" /></a>
