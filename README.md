@@ -106,6 +106,12 @@
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="81" height="81"/>
   </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="81" height="81"/>
+  </a>
+  <a href="https://www.atlassian.com/devops" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian/atlassian-icon.svg" alt="devops" width="81" height="81"/>
+  </a>
 </p>
 
 
