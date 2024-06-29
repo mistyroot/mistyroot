@@ -27,10 +27,18 @@ jobs:
         run: chmod +x generate_snake_svg_script.sh
 
       - name: Generate GitHub contribution graph snake SVG
-        run: ./generate_snake_svg_script.sh > ./dist/github-contribution-grid-snake.svg
+        run: |
+          echo "Generating GitHub contribution graph snake SVG..."
+          ./generate_snake_svg_script.sh > ./dist/github-contribution-grid-snake.svg
 
-      - name: Push changes to GitHub
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+      - name: Configure Git
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+      - name: Commit and push changes
+        run: |
+          git checkout -b output
+          git add ./dist
+          git commit -m "Update GitHub contribution graph snake SVG"
+          git push origin output
