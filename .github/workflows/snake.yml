@@ -30,3 +30,4 @@ jobs:
           git config --global user.name "GitHub Action"
           git add .
           git diff --quiet && git diff --staged --quiet || git commit -m "Update GitHub Contribution Snake" && git push
+
