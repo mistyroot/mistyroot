@@ -113,10 +113,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayaky7&show_icons=true&locale=en" alt="vinayaky7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayaky7&" alt="vinayaky7" /></p>
-
-[![Vinayak's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vinayaky7&theme=react-dark)](https://github.com/vinayaky7)
-
 [![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayaky7&show_icons=true&theme=radical)](https://github.com/vinayaky7)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinayaky7&theme=radical)](https://github.com/vinayaky7)
