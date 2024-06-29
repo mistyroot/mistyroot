@@ -23,13 +23,27 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       
+      # Clone Platane/snk repository
+      - name: Clone Platane/snk repository
+        run: git clone https://github.com/Platane/snk.git ./snk
+      
+      # Navigate to snk directory
+      - name: Navigate to snk directory
+        run: cd snk
+      
+      # Install dependencies (if any)
+      - name: Install dependencies (if any)
+        run: |
+          # Example command to install dependencies (if required)
+          # npm install
+      
       # Generate the GitHub contribution graph snake SVG
       - name: Generate GitHub contribution graph snake SVG
         run: |
+          # Example command to generate snake SVG
+          # Replace this with your actual command to generate SVG
           echo "Generating GitHub contribution graph snake SVG..."
-          curl -sSL https://raw.githubusercontent.com/Platane/snk/master/install.sh | bash -s -- -b ./dist/
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ./path/to/your/snake-generator-script.sh > ./dist/github-contribution-grid-snake.svg
       
       # Push the generated files to the output branch
       - name: Push to GitHub Pages
