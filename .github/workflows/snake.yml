@@ -11,18 +11,22 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
-        with:
-          fetch-depth: 3  # Adjust fetch depth as needed
-          retry: 3  # Number of retries on failure
-
+     
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
 
-      - name: Generate snake (Replace with your custom script)
+      - name: Debug - List files in dist directory before
+        run: ls -l dist  # Check if the dist directory exists and its contents
+
+      - name: Generate snake
         run: |
-          echo "Generate snake animation script here"
+          python generate_snake.py
+          # Optionally add debugging print statements or checks here
+
+      - name: Debug - List files in dist directory after
+        run: ls -l dist  # Check again after attempting to generate the SVG file
 
       - name: Commit and push if changed
         run: |
@@ -30,4 +34,3 @@ jobs:
           git config --global user.name "GitHub Action"
           git add .
           git diff --quiet && git diff --staged --quiet || git commit -m "Update GitHub Contribution Snake" && git push
-
