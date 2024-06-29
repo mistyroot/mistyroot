@@ -24,9 +24,6 @@
 - **Docker** for containerization
 - **Ansible** and **Terraform** for infrastructure as code (IaC)
 - **Red Hat** for enterprise-grade open source solutions
-- **Azure** for additional cloud services
-- **HTML5** for web development
-- **GitLab** for DevOps lifecycle management
 - **SonarQube** for code quality assurance
 - **Maven** for project management and comprehension
 - **Nexus** for artifact repository management
