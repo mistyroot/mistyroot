@@ -9,16 +9,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
         with:
-          ref: v2
+          fetch-depth: 3  # Adjust fetch depth as needed
+          retry: 3  # Number of retries on failure
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
+
       - name: Generate snake (Replace with your custom script)
         run: |
           echo "Generate snake animation script here"
+
       - name: Commit and push if changed
         run: |
           git config --global user.email "githubaction@users.noreply.github.com"
