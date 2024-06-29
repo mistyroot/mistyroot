@@ -18,7 +18,7 @@
 
 📫 You can reach me at [vinayak.012395@gmail.com](mailto:vinayak.012395@gmail.com).
 
-<h2 align="center">⚡ Connect with me: ⚡</h2>
+<h2 align="center">💬Connect with me:  </h2>
 
 <div align="center">
 <a href="https://linkedin.com/in/vinayaky7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayaky7" height="30" width="81" /></a>
