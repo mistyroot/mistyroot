@@ -13,27 +13,29 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      # Replace with your script or command to generate snake files
       - name: Generate the snake files
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: vinayaky7
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+        run: |
+          echo "Generating snake files..."
+          # Example command to generate snake files
+          curl -sSL https://raw.githubusercontent.com/Platane/snk/master/install.sh | bash -s -- -b ./dist/
 
       - name: Show build status
         run: git status
 
+      # Replace with standard git commands to push changes
       - name: Push changes
-        uses: github-push-action/github-push-action@main
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add dist/
+          git commit -m "Update snake animations"
+          git push origin main
 
+      # Replace with standard git commands to deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@4.1.5
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          folder: dist
+        run: |
+          git checkout output
+          git add dist/
+          git commit -m "Update GitHub Pages"
+          git push origin output
