@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayaky7&label=Profile%20views&color=0e81b6&style=flat" alt="vinayaky7" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayaky7" alt="vinayaky7" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vinayaky7" alt="vinayaky7" width="800px" />
+  </a>
+</p>
+
 
 
 ### Hi there 👋
