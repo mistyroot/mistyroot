@@ -12,22 +12,22 @@
 
 🔭 I’m currently working on AWS and DevOps, leveraging a wide array of tools to streamline and enhance my projects. My expertise includes using:
 
-- **Amazon Web Services (AWS)** for scalable cloud solutions
-- **Bash** for efficient scripting
-- **Git** and **GitHub** for version control and collaboration
-- **Grafana** and **Prometheus** for monitoring and alerting
-- **Jenkins** for continuous integration and continuous delivery (CI/CD)
-- **Kubernetes** for container orchestration
-- **Linux** for a robust and flexible operating system
-- **MySQL** for reliable database management
-- **Python** and **Golang** for versatile programming
-- **Docker** for containerization
-- **Ansible** and **Terraform** for infrastructure as code (IaC)
-- **Red Hat** for enterprise-grade open source solutions
-- **SonarQube** for code quality assurance
-- **Maven** for project management and comprehension
-- **Nexus** for artifact repository management
-
+- **Amazon Web Services (AWS)** 
+- **Bash** 
+- **GitHub**
+- **Grafana**  **Prometheus**
+- **Jenkins**
+- **Kubernetes**
+- **Linux**
+- **MySQL**
+- **Python**
+- **Docker**
+- **Ansible** **Terraform** 
+- **Red Hat**
+- **SonarQube**
+- **Maven**
+- **Nexus**
+- 
 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/vinayaky7?tab=repositories).
 
 💬 Feel free to ask me about anything related to AWS and DevOps.
