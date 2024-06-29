@@ -115,7 +115,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayaky7&" alt="vinayaky7" /></p>
 
-[![Vinayak's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vinayaky7&theme=react-dark)](https://github.com/vinayaky7)
+[![Vinayak's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vinayaky7&theme=react-dark)](https://github.com/vinayaky7)
 
 [![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayaky7&show_icons=true&theme=radical)](https://github.com/vinayaky7)
 
