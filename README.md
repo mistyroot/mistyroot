@@ -33,14 +33,15 @@
 📫 You can reach me at [vinayak.012395@gmail.com](mailto:vinayak.012395@gmail.com).
 
 <h2 align="center">⚡ Connect with me: ⚡</h2>
-<p align="left">
+
+<div align="center">
 <a href="https://linkedin.com/in/vinayaky7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayaky7" height="30" width="81" /></a>
 <a href="https://www.hackerrank.com/vinayaky7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinayaky7" height="30" width="81" /></a>
 <a href="https://www.leetcode.com/vinayaky7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinayaky7" height="30" width="81" /></a>
 </p>
 
 <h2 align="center">⚡ Languages and Tools: ⚡</h2>
-<p align="left">
+<div align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="81" height="81"/>
   </a>
@@ -101,7 +102,7 @@
   <a href="https://www.redhat.com/en/topics/devops/what-is-devops" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="devops" width="81" height="81"/>
   </a>
-</p>
+</div>
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
