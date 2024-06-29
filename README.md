@@ -117,3 +117,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinayaky7&theme=radical)](https://github.com/vinayaky7)
 
+![GitHub Snake](https://raw.githubusercontent.com/vinayaky7/vinayaky7/main/dist/github-contribution-grid-snake.svg)
