@@ -23,6 +23,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       
+      # Create the 'dist' directory if it doesn't exist
+      - name: Create 'dist' directory
+        run: mkdir -p dist
+      
       # Generate the GitHub contribution graph snake SVG
       - name: Generate GitHub contribution graph snake SVG
         run: |
