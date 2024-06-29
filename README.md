@@ -106,11 +106,11 @@
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="81" height="81"/>
   </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="81" height="81"/>
+  <a href="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="jira" width="81" height="81"/>
   </a>
-  <a href="https://www.atlassian.com/devops" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian/atlassian-icon.svg" alt="devops" width="81" height="81"/>
+  <a href="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" target="_blank" rel="noreferrer">
+    <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="devops" width="81" height="81"/>
   </a>
 </p>
 
