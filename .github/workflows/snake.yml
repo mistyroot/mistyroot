@@ -22,17 +22,17 @@ jobs:
       # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v2
-      
+        
       # Ensure script has executable permissions
       - name: Set execute permission for script
         run: chmod +x generate_snake_svg.sh
-      
+        
       # Generate the GitHub contribution graph snake SVG
       - name: Generate GitHub contribution graph snake SVG
         run: |
           echo "Generating GitHub contribution graph snake SVG..."
           ./generate_snake_svg.sh > ./dist/github-contribution-grid-snake.svg
-      
+          
       # Push the generated files to the output branch
       - name: Push to GitHub Pages
         run: |
