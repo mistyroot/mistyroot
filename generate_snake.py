@@ -9,5 +9,5 @@ def generate_snake():
 
 if __name__ == "__main__":
     svg_content = generate_snake()
-    with open('github-contribution-grid-snake.svg', 'w') as f:
+    with open('dist/github-contribution-grid-snake.svg', 'w') as f:
         f.write(svg_content)
