@@ -2,7 +2,7 @@ name: Generate Animation and Push
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs automatically every 12 hours
+    - cron: "0 */6 * * *"  # Runs automatically every 12 hours
   workflow_dispatch:        # Allows manual run
   push:
     branches:
