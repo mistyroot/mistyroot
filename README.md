@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak Yadav</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-
+<p align="center"> <img src="https://github.com/vinayaky7/vinayaky7/blob/main/wall.jpg"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayaky7&label=Profile%20views&color=0e81b6&style=flat" alt="vinayaky7" /> </p>
 
 <img align="right" alt="Coding" width="400" src=https://github.com/vinayaky7/vinayaky7/blob/main/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif>
