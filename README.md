@@ -14,7 +14,7 @@
 
 💬 Feel free to ask me about anything related to AWS and DevOps.
 
-📫 You can reach me at [vinayak.012395@gmail.com](mailto:vinayak.012395@gmail.com).
+📫 You can reach me at [yvinayakv@gmail.com](mailto:yvinayakv@gmail.com).
 
 <h2 align="center">💬Connect with me:  </h2>
 
