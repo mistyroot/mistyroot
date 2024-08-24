@@ -29,15 +29,6 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="81" height="81"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="81" height="81"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="81" height="81"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="81" height="81"/>
-  </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="81" height="81"/>
   </a>
@@ -46,9 +37,6 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="81" height="81"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="81" height="81"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="81" height="81"/>
@@ -59,14 +47,8 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="81" height="81"/>
   </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="81" height="81"/>
-  </a>
   <a href="https://www.redhat.com/en" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="81" height="81"/>
-  </a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="81" height="81"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="jira" width="81" height="81"/>
