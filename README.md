@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on AWS and DevOps, leveraging a wide array of tools to streamline and enhance my projects. My expertise includes using:
 
-**Amazon Web Services (AWS),** **Bash,** **GitHub,** **Grafana,** **Prometheus,** **Jenkins,** **Kubernetes,** **Linux,** **MySQL,** **Python,** **Docker,** **Ansible,** **Terraform,** **Red Hat,** **SonarQube,** **Maven,** **Nexus**
+**Amazon Web Services (AWS),** **Bash,** **GitHub,** **Jenkins,** **Kubernetes,** **Linux,** **MySQL,** **Python,** **Docker,** **Ansible,** **Red Hat,**
   
 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/vinayaky7?tab=repositories).
 
