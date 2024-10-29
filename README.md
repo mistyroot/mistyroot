@@ -15,6 +15,7 @@
 **Amazon Web Services (AWS),** **Bash,** **GitHub,** **Jenkins,** **Kubernetes,** **Linux,** **MySQL,** **Python,** **Docker,** **Ansible,** **Red Hat,**
   
 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/vinayaky7?tab=repositories).
+[gitlab](https://gitlab.com/users/21999494/projects)
 
 💬 Feel free to ask me about anything related to AWS and DevOps.
 
