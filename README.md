@@ -18,7 +18,7 @@
 
 💬 Feel free to ask me about anything related to AWS and DevOps.
 
-📫 You can reach me at [vins.lucks@gmail.com](mailto:vins.lucks@gmail.com).
+
 
 <h2 align="center">💬Connect with me:  </h2>
 
