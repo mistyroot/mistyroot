@@ -12,7 +12,6 @@
 
 ---
 
-
 <h2 align="left">💬Connect with me:  </h2>
 
 <div align="left">
@@ -51,7 +50,6 @@
 ---
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinayak444&theme=darkhub&no-bg=true&margin-w=15)
-
 
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
