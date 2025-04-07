@@ -32,6 +32,12 @@ Amazon Web Services (AWS), Bash scripting, GitHub, Jenkins, Kubernetes, Linux sy
 <a href="https://www.leetcode.com/vinayaky7" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30"/>
 </a>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayak-yadav-9a94962b0/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vinayaky7)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/vinayaky7)
+
+
 </p>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -47,9 +53,6 @@ Amazon Web Services (AWS), Bash scripting, GitHub, Jenkins, Kubernetes, Linux sy
 <a href="https://www.ansible.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="Ansible" width="30"/></a>
 <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="30"/></a>
 <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" width="30"/></a>
-
-
-
 
 </div>
 
