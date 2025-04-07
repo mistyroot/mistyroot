@@ -23,11 +23,6 @@ Amazon Web Services (AWS), Bash scripting, GitHub, Jenkins, Kubernetes, Linux sy
 <h2 align="center">💬Connect with me:  </h2>
 
 <div align="center">
-<a href="https://linkedin.com/in/vinayak-yadav-9a94962b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/vinayaky7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinayaky7" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/vinayaky7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinayaky7" height="30" width="30" /></a>
-
-
 <a href="https://linkedin.com/in/vinayak-yadav-9a94962b0/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30"/>
 </a>
@@ -37,8 +32,6 @@ Amazon Web Services (AWS), Bash scripting, GitHub, Jenkins, Kubernetes, Linux sy
 <a href="https://www.leetcode.com/vinayaky7" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30"/>
 </a>
-
-
 </p>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
