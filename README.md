@@ -1,3 +1,5 @@
+<h1 align="center">Hello, I'm Vinayak 👋</h1>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Vinayak+Yadav....;Nice+to+meet+you!&center=true&size=30">
@@ -8,16 +10,15 @@
 
 <img align="right" alt="Coding" width="400" src=https://github.com/vinayaky7/vinayaky7/blob/main/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif>
 
-**Hey there 👋**
-🔧 I'm currently immersed in AWS and DevOps, utilizing a broad set of tools and technologies to optimize workflows and drive efficient solutions. My skillset includes:
+---
 
-Amazon Web Services (AWS), Bash scripting, GitHub, Jenkins, Kubernetes, Linux systems, MySQL, Python, Docker, Ansible, Red Hat Enterprise Linux
+🌱 I’m currently learning **DevOps | Cloud | Automation**  
+💻 Tech I love: Python, Linux, Docker, Git, VS Code, AWS  
+🚀 Passionate about scripting, solving problems, and continuous learning  
+📫 Reach me on [LinkedIn](https://linkedin.com/in/your-link)
 
-🤝 I'm always open to collaboration opportunities.
+---
 
-💻 You can explore all of my work on GitHub and GitLab.
-
-💬 Got questions about AWS or DevOps? Don’t hesitate to reach out!
 
 <h2 align="left">💬Connect with me:  </h2>
 
