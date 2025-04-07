@@ -23,9 +23,11 @@ Amazon Web Services (AWS), Bash scripting, GitHub, Jenkins, Kubernetes, Linux sy
 <h2 align="center">💬Connect with me:  </h2>
 
 <div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayak-yadav-9a94962b0/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vinayaky7)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/vinayaky7)
+
 </p>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
