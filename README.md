@@ -19,7 +19,6 @@ Amazon Web Services (AWS), Bash scripting, GitHub, Jenkins, Kubernetes, Linux sy
 
 💬 Got questions about AWS or DevOps? Don’t hesitate to reach out!
 
-
 <h2 align="center">💬Connect with me:  </h2>
 
 <div align="center">
@@ -45,8 +44,6 @@ Amazon Web Services (AWS), Bash scripting, GitHub, Jenkins, Kubernetes, Linux sy
 <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" width="30"/></a>
 
 </div>
-
-<br/>
 
 ## 🚀 Vinayak Yadav's GitHub Stats
 ![Stats Badge](https://github-readme-stats.vercel.app/api?username=vinayak444&show_icons=true&count_private=true&hide=issues,contribs&theme=dark&custom_title=GitHub+Stats)
