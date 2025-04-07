@@ -25,22 +25,20 @@
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="left">
- 
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="30"/></a>
-<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" width="30"/></a>
-<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" width="30"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="30"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" width="30"/></a>
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="30"/></a>
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="30"/></a>
-<a href="https://www.ansible.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="Ansible" width="30"/></a>
-<a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="30"/></a>
-<a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" width="30"/></a>
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-
+<p align="left">
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="30"/></a>
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" width="30"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS" width="30"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="30"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="C" width="30"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="30"/></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="30"/></a>
+  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="30"/></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="30"/></a>
+  <a href="https://www.ansible.com/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png" alt="Ansible" width="30"/></a>
+  <a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="30"/></a>
+  <a href="https://www.terraform.io/"><img src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="Terraform" width="30"/></a>
+</p>
 </div>
 
 ## 🚀 Vinayak Yadav's GitHub Stats
