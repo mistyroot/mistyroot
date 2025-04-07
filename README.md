@@ -59,6 +59,11 @@ Amazon Web Services (AWS), Bash scripting, GitHub, Jenkins, Kubernetes, Linux sy
 
 <br/>
 
+
+## 🚀 Vinayak Yadav's GitHub Stats
+![Stats Badge](https://github-readme-stats.vercel.app/api?username=vinayak444&show_icons=true&count_private=true&hide=issues,contribs&theme=dark&custom_title=GitHub+Stats)
+
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
