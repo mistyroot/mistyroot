@@ -48,9 +48,7 @@
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="81" height="81"/>
   </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="81" height="81"/>
-  </a>
+  
 </div>
 
 <br/><br/>
