@@ -41,15 +41,15 @@
 </div>
 
 ## 🚀 Vinayak Yadav's GitHub Stats
-![Stats Badge](https://github-readme-stats.vercel.app/api?username=vinayak444&show_icons=true&count_private=true&hide=issues,contribs&theme=dark&custom_title=GitHub+Stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak444&layout=compact&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com/?user=vinayak444&theme=dark)
+![Stats Badge](https://github-readme-stats.vercel.app/api?username=mistyroot&show_icons=true&count_private=true&hide=issues,contribs&theme=dark&custom_title=GitHub+Stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mistyroot&layout=compact&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mistyroot&theme=dark)
 ---
 ### 🧠 Contribution Graph
 [![Vinayak's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MonikaChauhan&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 ---
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinayak444&theme=darkhub&no-bg=true&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mistyroot&theme=darkhub&no-bg=true&margin-w=15)
 
 <div align="left">
   <h2>🐍 My Contributions 🐍</h2>
